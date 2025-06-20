@@ -1,9 +1,9 @@
 
 ## 👤 About the Instructor
 
-[![Ayan Dutta - Instructor](https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg)](https://www.udemy.com/user/ayandutta/)
+[![Uswa Khan - Instructor](https://img-C:\Users\ijaz\Downloads\Black_Minimalist.jpg)](https://www.udemy.com/user/ayandutta/)
 
-Hi, I’m **Umer**, a cloud Engineer, Instructor, and Devops Engineer.  
+Hi, I’m **Uswa Khan**, a cloud Engineer, Instructor, and Devops Engineer.  
 I create practical, hands-on courses on **cloud computing, Spring Boot, Debugging, Git, Python**, and more.
 
 ---
@@ -12,10 +12,9 @@ I create practical, hands-on courses on **cloud computing, Spring Boot, Debuggin
 
 - 💬 **Slack Group:** [Join Here](https://join.slack.com/t/learningfromexp/shared_invite/zt-1fnksxgd0-_jOdmIq2voEeMtoindhWrA)
 - 📢 After joining, go to the `#java-debugging-with-intellij-idea-udemy` channel
-- 📧 **Email:** j2eeexpert2015@gmail.com
+- 📧 **Email:** uswa48850@gmail.com
 - 🔗 **YouTube:** [LearningFromExperience](https://www.youtube.com/@learningfromexperience)
-- 📝 **Medium Blog:** [@mrayandutta](https://medium.com/@mrayandutta)
-- 💼 **LinkedIn:** [Ayan Dutta](https://www.linkedin.com/in/ayan-dutta-a41091b/)
+- 💼 **LinkedIn:** [Uswa Khan](https://www.linkedin.com/in/ayan-dutta-a41091b/)
 
 ---
 
