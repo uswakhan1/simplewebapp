@@ -3,8 +3,8 @@
 
 [![Ayan Dutta - Instructor](https://img-c.udemycdn.com/user/200_H/5007784_d6b8.jpg)](https://www.udemy.com/user/ayandutta/)
 
-Hi, I’m **Ayan Dutta**, a Software Architect, Instructor, and Content Creator.  
-I create practical, hands-on courses on **Java, Spring Boot, Debugging, Git, Python**, and more.
+Hi, I’m **Umer**, a cloud Engineer, Instructor, and Devops Engineer.  
+I create practical, hands-on courses on **cloud computing, Spring Boot, Debugging, Git, Python**, and more.
 
 ---
 
