@@ -20,7 +20,7 @@ I create practical, hands-on courses on **cloud computing, Spring Boot, Debuggin
 
 ## 📺 Subscribe on YouTube
 
-[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@learningfromexperience)
+[![YouTube](https://img.shields.io/badge/Watch%20on%20YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@TechnicalGuftgu)
 
 ---
 
