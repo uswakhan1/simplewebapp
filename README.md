@@ -1,7 +1,7 @@
 
 ## 👤 About the Instructor
 
-[![Uswa Khan - Instructor](https://img-C:\Users\ijaz\Downloads\Black_Minimalist.jpg)](https://www.udemy.com/user/ayandutta/)
+[![Uswa Khan - Instructor](https://img-C:\Users\ijaz\Downloads\Black_Minimalist.jpg)](https://www.linkedin.com/in/uswa-khan-5a0343330/)
 
 Hi, I’m **Uswa Khan**, a cloud Engineer, Instructor, and Devops Engineer.  
 I create practical, hands-on courses on **cloud computing, Spring Boot, Debugging, Git, Python**, and more.
